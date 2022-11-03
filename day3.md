@@ -7,6 +7,19 @@
 
 2. _condemn_ 职责
 
+3. **_algorithm_** 算法
+   start algorithm (ddl 3:00)
+
+4. _Oxford_ 牛津大学
+
+5. _absorb_ 吸收
+
+6. _maximum_ 最大值
+
+7. _shrug_ 耸肩
+
+8. _summit_ 山顶
+
 ### spelling
 
 3. logo
@@ -27,6 +40,8 @@
 
 11. social responsibility
 
-12. csr 企业策略
+12. marginal costs
 
-13. marginal costs
+### abbreviations
+
+csr 企业策略
