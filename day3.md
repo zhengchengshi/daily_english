@@ -18,7 +18,9 @@
 
 7. _shrug_ 耸肩
 
-8. _summit_ 山顶
+8. _summit_ 山顶，峰会
+
+9. _sufficient_ 足够的
 
 ### spelling
 
