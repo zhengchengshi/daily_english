@@ -14,6 +14,8 @@
 10. _lace_ 花边（蕾丝）
 11. _scrutiny_ 仔细观察
 12. _vacant_ 空的
+12. _vacuum_ 真空
 13. _accumulates_ 积攒
 14. _pant_ 喘气
 15. _pants_ 裤子
+16. _privilege_ 权力
