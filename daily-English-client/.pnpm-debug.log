@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: create-umi",
+      "code": "ENOENT",
+      "stack": "Error: not found: create-umi\n    at getNotFoundError (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41585:51)\n    at Function.whichSync [as sync] (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41662:13)\n    at getCommandAbsolutePathSync (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43227:44)\n    at default_1 (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43236:32)\n    at F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:178180:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "C:\\Users\\郑成事",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: create-umi",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: create-umi\n    at getNotFoundError (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41585:51)\n    at Function.whichSync [as sync] (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41662:13)\n    at getCommandAbsolutePathSync (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43227:44)\n    at default_1 (F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43236:32)\n    at F:\\nvm\\nvm\\v16.0.0\\node_modules\\pnpm\\dist\\pnpm.cjs:178180:39"
+    }
+  }
+}

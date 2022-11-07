@@ -1,25 +1,20 @@
 {
-  "name": "vite-project",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "author": "zhengchengshi <2650744390@qq.com>",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
   },
   "dependencies": {
-    "marked": "^4.2.2",
-    "marked-react": "^1.3.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-router-dom": "5.3"
+    "umi": "^4.0.29",
+    "umi-request": "^1.4.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.22",
-    "@types/react-dom": "^18.0.7",
-    "@vitejs/plugin-react": "^2.2.0",
-    "typescript": "^4.6.4",
-    "vite": "^3.2.0"
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^4.1.2"
   }
 }

@@ -10,3 +10,5 @@
 8. _flake_ 薄片
 9. _is bound to_ 必然
 10. _stoop_ 弯腰
+11. _stubborn_ 顽固的
+12. _loyal_ 忠心的
