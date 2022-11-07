@@ -11,6 +11,6 @@ export interface getResponse {
   type: string;
   url: string;
 }
-export async function get(): Promise<getResponse> {
+export async function get(): Promise<getResponse[]> {
   return request("/daily-punch");
 }
