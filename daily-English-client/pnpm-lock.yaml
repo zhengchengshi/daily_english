@@ -3,11 +3,13 @@ lockfileVersion: 5.3
 specifiers:
   '@types/react': ^18.0.0
   '@types/react-dom': ^18.0.0
+  lodash: ^4.17.21
   typescript: ^4.1.2
   umi: ^4.0.29
   umi-request: ^1.4.0
 
 dependencies:
+  lodash: 4.17.21
   umi: 4.0.29_6d5105bc948389d9b0f3762af1e4a3d0
   umi-request: 1.4.0
 

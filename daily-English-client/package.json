@@ -9,6 +9,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "umi": "^4.0.29",
     "umi-request": "^1.4.0"
   },
