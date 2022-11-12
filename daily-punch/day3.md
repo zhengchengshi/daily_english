@@ -5,7 +5,7 @@
 1. _internship_ 实习
    find an internship
 
-2. _condemn_ 职责
+2. _condemn_ 指责
 
 3. **_algorithm_** 算法
    start algorithm (ddl 3:00)
