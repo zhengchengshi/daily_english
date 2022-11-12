@@ -1,3 +1,4 @@
+// @ts-ignore: alias错误
 import { request } from "@/utils/api.ts";
 
 export interface getResponse {

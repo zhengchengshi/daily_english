@@ -1,8 +1,18 @@
-import React, { Fragment } from "react";
+import React, { Fragment, useEffect, useState } from "react";
 import styles from "./index.less";
-import { history } from "umi";
+import { history, useLocation } from "umi";
+// @ts-ignore
 import { marked } from "marked";
-export default function index() {
+import { getFile, FileType } from "@/services";
+const detail = () => {
+  const { search } = useLocation();
+  const [md, setMd] = useState<string>("");
+  const title = search.substring(1, search.indexOf(".md")) || "-";
+  useEffect(() => {}, [
+    getFile(search.substring(1)).then((res: FileType) => {
+      setMd(Buffer.from(res.content, "base64").toString());
+    }),
+  ]);
   return (
     <div className={styles.container}>
       <div className={styles.detailHeader}>
@@ -14,9 +24,13 @@ export default function index() {
             history.back();
           }}
         />
-        <div className={styles.detailHeaderTitle}>day5</div>
+        <div className={styles.detailHeaderTitle}>{title}</div>
       </div>
-      <div className={styles.markdownContainer}></div>
+      <div
+        className={styles.markdownContainer}
+        dangerouslySetInnerHTML={{ __html: md && (marked(md) || "no content") }}
+      ></div>
     </div>
   );
-}
+};
+export default detail;

@@ -2,10 +2,10 @@ import React, { useEffect, useRef, useState } from "react";
 import _ from "lodash";
 import { history } from "umi";
 import styles from "./index.less";
-import { getList, ListType } from "@/services";
+import { getList, ContentType } from "@/services";
 export default function index() {
-  const [list, setList] = useState<ListType[]>();
-  const [filterItem, setFilterItem] = useState<ListType[]>();
+  const [list, setList] = useState<ContentType[]>();
+  const [filterItem, setFilterItem] = useState<ContentType[]>();
   const iptChange = _.debounce((e: InputEvent) => {
     setFilterItem(
       list?.filter(
@@ -49,7 +49,7 @@ export default function index() {
                 key={item.sha}
                 className={styles.item}
                 onClick={() => {
-                  history.push("/detail");
+                  history.push({ pathname: "/detail", search: item.name });
                 }}
               >
                 {item.name || "-"}

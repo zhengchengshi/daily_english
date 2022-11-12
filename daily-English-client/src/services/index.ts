@@ -1,3 +1,13 @@
-import { get as getList, type getResponse as ListType } from "./data";
+import {
+  get as getList,
+  type getResponse as ContentType,
+  // @ts-ignore
+} from "./data/getList.ts";
 
-export { getList, type ListType };
+import {
+  get as getFile,
+  type getResponse as FileType,
+  // @ts-ignore
+} from "./data/getFile.ts";
+
+export { getList, getFile, type ContentType, type FileType };
