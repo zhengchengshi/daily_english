@@ -23,7 +23,7 @@ export default function index() {
     return (
       <div className={styles.empty}>
         <img
-          src="https://img.bytedance.cool/empty.png"
+          src="https://file.bytedance.cool/img/2fffb588e7310cb65c09fd2e21a0e834.png"
           alt="err"
           className={styles.emptyIcon}
         />
@@ -49,7 +49,7 @@ export default function index() {
                 key={item.sha}
                 className={styles.item}
                 onClick={() => {
-                  window.open(item.html_url);
+                  history.push("/detail");
                 }}
               >
                 {item.name || "-"}
