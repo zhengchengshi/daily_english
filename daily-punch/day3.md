@@ -1,5 +1,3 @@
-# day3
-
 ### new words
 
 1. _internship_ 实习

@@ -1,5 +1,3 @@
-# day4
-
 ### QA
 
 Q: What is something that you consider good luck?
@@ -18,7 +16,7 @@ Q：What do you think the theme ?
 
 A：I think the theme mix tragedy and encouragement factor .
 
-## new words
+### new words
 
 1. _ideal_ 理想的
 2. _idea_ 想法，主意

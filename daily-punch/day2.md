@@ -1,6 +1,4 @@
-# day2
-
----
+### new words
 
 1. _statistical_ 统计的
 2. _syllable_ 音节 n.

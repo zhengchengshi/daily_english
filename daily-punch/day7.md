@@ -1,4 +1,4 @@
-# day7
+### new words
 
 1. revelation 解密
 2. erect 搭建

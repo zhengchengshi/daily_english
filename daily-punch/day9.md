@@ -1,4 +1,4 @@
-## new words
+### new words
 
 1. phobia 恐惧症
 2. speatator 观众

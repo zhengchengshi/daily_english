@@ -1,5 +1,3 @@
-# day1
-
 > enjoy what you are doing !
 
 1.  _confidential_ 机密的 adj.

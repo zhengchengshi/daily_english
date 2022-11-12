@@ -1,4 +1,4 @@
-# day6
+### new words
 
 1. _fascinate_ 使着迷
 2. _ceremony_ 典礼
