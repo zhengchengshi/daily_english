@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
+// @ts-ignore
 import _ from "lodash";
 import { history } from "umi";
 import styles from "./index.less";
@@ -6,17 +7,26 @@ import { getList, ContentType } from "@/services";
 export default function index() {
   const [list, setList] = useState<ContentType[]>();
   const [filterItem, setFilterItem] = useState<ContentType[]>();
+  const sortMd = (strArr: ContentType[]): ContentType[] => {
+    strArr.sort((a, b) => {
+      return a.name.replace(/[^0-9]/gi, "") - b.name.replace(/[^0-9]/gi, "");
+    });
+    return strArr;
+  };
   const iptChange = _.debounce((e: InputEvent) => {
     setFilterItem(
-      list?.filter(
-        (item) => item.name.indexOf((e.target as HTMLInputElement).value) !== -1
+      sortMd(
+        list?.filter(
+          (item) =>
+            item.name.indexOf((e.target as HTMLInputElement).value) !== -1
+        ) || []
       )
     );
   }, 1000);
   const fetchList = () => {
-    getList().then((res) => {
-      setList(res);
-      setFilterItem(res);
+    getList().then((res: ContentType[]) => {
+      setList(sortMd(res));
+      setFilterItem(sortMd(res));
     });
   };
   const emptyRender = () => {
