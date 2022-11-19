@@ -8,4 +8,4 @@
 6. prompt 敦促 提示
 7. undertake 承担
 8. squeeze 压榨
-9. bulb 灯泡
+9. bulb 电灯泡
