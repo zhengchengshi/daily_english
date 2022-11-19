@@ -10,3 +10,11 @@
 8. raid 突击搜捕 袭击
 9. crisp 脆的
 10. conceive 怀孕 设想
+
+## sentence replace
+
+this means -> this actually demonstrate that
+
+in conclusion -> to sum up everything that has been ststed so far
+
+for -> for the exact purpose of
