@@ -18,3 +18,5 @@ this means -> this actually demonstrate that
 in conclusion -> to sum up everything that has been ststed so far
 
 for -> for the exact purpose of
+
+because -> the particular reason for circumstance
