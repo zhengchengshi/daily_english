@@ -11,3 +11,4 @@
 9. prospect 前景
 10. bungalow 平房
 11. bend 弯曲
+12. undue 过分的 不适当的
