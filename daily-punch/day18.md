@@ -10,3 +10,4 @@
 8. dawn 黎明
 9. unconditional 绝对的
 10. towel 毛巾
+11. splendid 壮观的 辉煌的 
