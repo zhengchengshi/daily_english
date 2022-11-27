@@ -9,6 +9,6 @@
 7. rural 乡村的
 8. herd 兽群
 9. trauma 精神创伤
-10. extinguish 扑灭 熄灭
+10. extinguish 扑灭 熄灭 put out 扑灭
 11. gratitude 感激
 12. petal 花瓣

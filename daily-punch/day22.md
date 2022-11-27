@@ -10,3 +10,4 @@
 8. magistrate 法官
 9. hatch 孵出
 10. determination 决心
+11. transform 改变 转换
