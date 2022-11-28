@@ -8,5 +8,5 @@
 6. peculiar 奇怪的 古怪的
 7. rip 撕开 裂缝
 8. wretched 可怜的
-9. contempt 轻视
+9. contempt 轻视 discrimination 歧视
 10. pace 步伐 踱步

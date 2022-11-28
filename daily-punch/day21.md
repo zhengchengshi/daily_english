@@ -5,7 +5,7 @@
 3. indigenous 土生土长的 indi 内部 + gen 出生
 4. nourish 滋养 nourishment 营养品
 5. delectable 美味的
-6. delectable 美味的 delect 愉快
+6. delect 愉快
 7. rural 乡村的
 8. herd 兽群
 9. trauma 精神创伤
