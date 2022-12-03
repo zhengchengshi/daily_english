@@ -7,4 +7,4 @@
 5. astronomy 天文学
 6. misdeed 不端行为
 7. disdain 鄙视
-8. opaque 不透明的 --反> transparent 透明的
+8. opaque 不透明的 --反> transparent 透明的 translucent 半透明的
