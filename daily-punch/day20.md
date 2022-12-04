@@ -8,3 +8,4 @@
 6. amateur 业余爱好的 业余爱好者
 7. thermometer 温度计
 8. trail 小径 痕迹 线索
+9. impair 损害(不可修复的)
