@@ -8,3 +8,6 @@
 6. bulk 大量的
 7. recruit 招募
 8. wrap 包，捆
+9. prohibit 禁止
+10. severe 严重的
+11. Currency 货币
