@@ -4,3 +4,4 @@
 2. yearn 渴望 向往
 3. excavate 挖掘
 4. acquaint 使认识 介绍
+5. fabulous 极好的
