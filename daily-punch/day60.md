@@ -8,3 +8,4 @@
 6. clip 夹子 夹住
 7. reticent 含蓄的
 8. pottery 陶艺
+9. flare 燃烧
