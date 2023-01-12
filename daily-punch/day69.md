@@ -6,3 +6,4 @@
 4. clarify 阐明 澄清
 5. mentality 心理
 6. cast 投 掷
+7. jury 陪审团
