@@ -7,3 +7,4 @@
 5. pay up 付清
 6. marvelous 叹为观止的
 7. tap 水龙头
+8. cavity 龋洞
