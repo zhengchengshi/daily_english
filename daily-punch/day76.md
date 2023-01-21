@@ -7,3 +7,4 @@
 5. mildew 霉 霉菌
 6. reckon on 计划
 7. Arctic 北极的
+8. call it a day 收工
