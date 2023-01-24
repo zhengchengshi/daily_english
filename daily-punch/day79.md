@@ -6,3 +6,4 @@
 4. slot 狭缝
 5. come about 发生
 6. abrupt 突然的 唐突的
+7. coward 懦夫 胆小鬼
